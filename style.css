@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.card {
+  width: 800px;
+  background: #05d849;
+  border: 2px dotted red;
+  margin: 16px auto;
+  padding: 3px;
+}
+.title {
+  background: #10f39b;
+  font-size: 32px;
+  padding: 8px;
+  margin: 8px;
+  border: 2px dotted red;
+  text-align: center;
+}
+.content {
+    text-align: center;
+}
+.img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px dotted red;
+}
+
+
+/*Make hoempage have a recipe title with maybe a picture and a link towards that recipe. 
+The title and picture should practice good spacing and try to fill out the font, font color,
+background color,border color */
